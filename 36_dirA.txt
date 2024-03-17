@@ -1,0 +1,13 @@
+1041!Zeleznicka stanica BGD centar!44.7927501!20.4539061!1
+2314!Gucevska!44.7925876!20.4579841!1
+1043!Bulevar kneza Aleksandra Karadjordjevica!44.7900716!20.4560157!1
+2802!Dinarska!44.7877176!20.4635736!1
+639!Franse DEperea!44.7928916!20.4666329!1
+149!Karadjordjev park!44.798345!20.465707!1
+147!Trg Slavija /Bulevar oslobodjenja/!44.8020625!20.4663866!1
+925!Trg Slavija /Nemanjina/!44.8033579!20.4644407!1
+1216!Kneza Milosa!44.8052917!20.4612779!1
+1726!Glavna zeleznicka stanica!44.8079672!20.4555836!1
+706!Palata pravde!44.8042803!20.4530846!1
+494!Mostar!44.7982204!20.4488814!1
+1041!Zeleznicka stanica BGD centar!44.7927501!20.4539061!1
